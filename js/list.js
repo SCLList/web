@@ -38,6 +38,25 @@ const d = {
                        "verificationVid": "https://youtu.be/VfvVwEKv7oQ",
                        "key": 0
 		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "GrassyXD",
+					"link": "https://www.youtube.com/watch?v=Eihu6Cq3hpw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Challenge Decadente (AndresStylesGD)",
+                       "author": "AndresStylesGD",
+                       "more": "none",
+                       "id": 119966375,
+                       "pass": "N/A",
+                       "percentToQualify": 68,
+                       "verificationVid": "https://www.youtube.com/watch?v=4X3eHCPlGFI",
+                       "key": 0
+		},
 	],
 	"version": [
 		1,
