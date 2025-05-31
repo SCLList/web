@@ -67,6 +67,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LudkiGD",
+					"link": "https://youtu.be/CFI3egJYejg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Challenge Decadente (AndresStylesGD)",
                        "author": "AndresStylesGD",
