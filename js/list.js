@@ -23,6 +23,26 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "MexelanGD",
+					"link": "https://www.youtube.com/watch?v=CUr-CAenzzQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
+			"name": "Why (MexelanGD)",
+                       "author": "GrassyXD",
+                       "more": "none",
+                       "id": 119616687,
+                       "pass": "N/A",
+                       "percentToQualify": 55,
+                       "verificationVid": "https://youtu.be/KCpun8E4fGw",
+                       "key": 0
+		},
+		/*=================================================================================*/
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "PLACEHOLDER",
 					"link": "https://youtu.be/VfvVwEKv7oQ",
 					"percent": 100,
