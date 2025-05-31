@@ -4,10 +4,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "MichaelReeves",
-					"link": "https://youtu.be/IVUCnVHBPc8",
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/tw5wiX7GizA",
 					"percent": 100,
-					"hz": "288hz"
+					"hz": "144hz"
 				},
 			],
 			"name": "Grassy challen (grassy22)",
