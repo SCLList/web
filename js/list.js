@@ -83,6 +83,44 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=4X3eHCPlGFI",
                        "key": 0
 		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/0EtCv8Aq59A",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Zoquete Challen (grassy22)",
+                       "author": "GrassyXD",
+                       "more": "none",
+                       "id": 119689676,
+                       "pass": "N/A",
+                       "percentToQualify": 71,
+                       "verificationVid": "https://youtu.be/0EtCv8Aq59A",
+                       "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "PLACEHOLDER",
+					"link": "https://www.youtube.com/watch?v=bNSQ0t4-c1A",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Cbas Challen (grassy22)",
+                       "author": "GrassyXD",
+                       "more": "none",
+                       "id": 119953755,
+                       "pass": "N/A",
+                       "percentToQualify": 71,
+                       "verificationVid": "https://www.youtube.com/watch?v=bNSQ0t4-c1A",
+                       "key": 0
+		},
 	],
 	"version": [
 		1,
