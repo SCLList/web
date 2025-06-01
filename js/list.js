@@ -23,6 +23,24 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "GrassyXD",
+					"link": "https://www.youtube.com/watch?v=_2SzVuauMkQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Leo Challen (Grassy2222)",
+                       "author": "faz4kongiro",
+                       "more": "none",
+                       "id": 119616687,
+                       "pass": "N/A",
+                       "percentToQualify": 55,
+                       "verificationVid": "https://www.youtube.com/watch?v=s74SWZSn8gU",
+                       "key": 1
+		},
+		{
+			"vids": [
+				{
 					"user": "MexelanGD",
 					"link": "https://www.youtube.com/watch?v=CUr-CAenzzQ",
 					"percent": 100,
@@ -36,7 +54,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 55,
                        "verificationVid": "https://youtu.be/KCpun8E4fGw",
-                       "key": 1
+                       "key": 2
 		},
 		/*=================================================================================*/
 		/*=================================================================================*/
@@ -56,7 +74,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 58,
                        "verificationVid": "https://youtu.be/VfvVwEKv7oQ",
-                       "key": 2
+                       "key": 3
 		},
 		/*=================================================================================*/
 		{
@@ -78,7 +96,7 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=7_Xreo_0yd8",
 					"percent": 100,
 					"hz": "60hz"
-				},
+				}, 
 			],
 			"name": "Challenge Decadente (AndresStylesGD)",
                        "author": "AndresStylesGD",
@@ -87,7 +105,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 68,
                        "verificationVid": "https://www.youtube.com/watch?v=4X3eHCPlGFI",
-                       "key": 3
+                       "key": 4
 		},
 		/*=================================================================================*/
 		{
@@ -106,7 +124,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 71,
                        "verificationVid": "https://youtu.be/0EtCv8Aq59A",
-                       "key": 4
+                       "key": 5
 		},
 		/*=================================================================================*/
 		{
@@ -131,7 +149,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 71,
                        "verificationVid": "https://www.youtube.com/watch?v=bNSQ0t4-c1A",
-                       "key": 5
+                       "key": 6
 		},
 	],
 	"version": [
