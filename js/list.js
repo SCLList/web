@@ -111,6 +111,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "faz4kongiro",
+					"link": "https://youtu.be/3HUEQcbwPVc",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Cbas Challen (grassy22)",
                        "author": "GrassyXD",
