@@ -87,8 +87,8 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "PLACEHOLDER",
-					"link": "https://youtu.be/0EtCv8Aq59A",
+					"user": "LudkiGD",
+					"link": "https://youtu.be/182RIMuwRx0",
 					"percent": 100,
 					"hz": "144hz"
 				},
