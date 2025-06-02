@@ -224,7 +224,7 @@ const d = {
 					"user": "faz4kongiro",
 					"link": "https://youtu.be/zgRLz1y_kpw",
 					"percent": 100,
-					"hz": "mobile 60hz"
+					"hz": "60hz"
 				},
 				{
 					"user": "ZoqueteRandom",
@@ -287,6 +287,12 @@ const d = {
 					"link": "https://youtu.be/mwSfhAkfoRo",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ZoqueteRandom",
+					"link": "https://youtube.com/shorts/IXFdDQVlG9I?si=O43THDGuJdCJxKl6",
+					"percent": 100,
+					"hz": "mobile 60hz"
 				},
 			],
 			"name": "Giga Clubstep (grassy22)",
