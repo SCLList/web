@@ -15,6 +15,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/VfvVwEKv7oQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Reto Para Will (MexelanGD)",
                        "author": "Willmuer",
@@ -33,6 +39,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=VwqCp0c9oYU",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/VfvVwEKv7oQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Grassy challen (grassy22)",
@@ -53,6 +65,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/VfvVwEKv7oQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Leo Challen (Grassy2222)",
                        "author": "faz4kongiro",
@@ -70,6 +88,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=CUr-CAenzzQ",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/VfvVwEKv7oQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Why (MexelanGD)",
@@ -109,6 +133,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GrassyXD",
+					"link": "https://youtu.be/eNF-99CC-aw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "The Spikes Of Pain (faz4kongiro)",
                        "author": "faz4kongiro",
@@ -127,6 +157,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=R5DLgW6CTWo",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/VfvVwEKv7oQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Wave Challenge (grassy22)",
@@ -159,6 +195,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				}, 
+				{
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/VfvVwEKv7oQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Challenge Decadente (AndresStylesGD)",
                        "author": "AndresStylesGD",
@@ -190,6 +232,12 @@ const d = {
 					"percent": 100,
 					"hz": "mobile 60hz"
 				},
+				{
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/VfvVwEKv7oQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Zoquete Challen (grassy22)",
                        "author": "GrassyXD",
@@ -214,6 +262,12 @@ const d = {
 					"link": "https://youtu.be/3HUEQcbwPVc",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/VfvVwEKv7oQ",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Cbas Challen (grassy22)",
