@@ -116,6 +116,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "faz4kongiro",
+					"link": "https://youtu.be/zgRLz1y_kpw",
+					"percent": 100,
+					"hz": "mobile 60hz"
+				},
+				{
+					"user": "ZoqueteRandom",
+					"link": "https://www.youtube.com/watch?v=h8tiX_HSQCw",
+					"percent": 100,
+					"hz": "mobile 60hz"
+				},
 			],
 			"name": "Zoquete Challen (grassy22)",
                        "author": "GrassyXD",
