@@ -4,6 +4,25 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "PLACEHOLDER",
+					"link": "https://www.youtube.com/watch?v=VwqCp0c9oYU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Reto Para Will (MexelanGD)",
+                       "author": "Willmuer",
+                       "more": "none",
+                       "id": 102126454,
+                       "pass": "N/A",
+                       "percentToQualify": 60,
+                       "verificationVid": "https://www.youtube.com/shorts/BQuVKgprZFQ",
+                       "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "faz4kongiro",
 					"link": "https://www.youtube.com/watch?v=VwqCp0c9oYU",
 					"percent": 100,
@@ -17,7 +36,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 60,
                        "verificationVid": "https://youtu.be/tw5wiX7GizA",
-                       "key": 0
+                       "key": 1
 		},
 		/*=================================================================================*/
 		{
@@ -36,7 +55,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 55,
                        "verificationVid": "https://www.youtube.com/watch?v=s74SWZSn8gU",
-                       "key": 1
+                       "key": 2
 		},
 		{
 			"vids": [
@@ -54,7 +73,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 55,
                        "verificationVid": "https://youtu.be/KCpun8E4fGw",
-                       "key": 2
+                       "key": 3
 		},
 		/*=================================================================================*/
 		{
@@ -73,7 +92,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 79,
                        "verificationVid": "https://youtu.be/DAHYy9QoOOk",
-                       "key": 3
+                       "key": 4
 		},
 		/*=================================================================================*/
 		{
@@ -92,7 +111,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 58,
                        "verificationVid": "https://youtu.be/VfvVwEKv7oQ",
-                       "key": 4
+                       "key": 5
 		},
 		/*=================================================================================*/
 		{
@@ -123,7 +142,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 68,
                        "verificationVid": "https://www.youtube.com/watch?v=4X3eHCPlGFI",
-                       "key": 5
+                       "key": 6
 		},
 		/*=================================================================================*/
 		{
@@ -154,7 +173,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 71,
                        "verificationVid": "https://youtu.be/0EtCv8Aq59A",
-                       "key": 6
+                       "key": 7
 		},
 		/*=================================================================================*/
 		{
@@ -179,7 +198,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 71,
                        "verificationVid": "https://www.youtube.com/watch?v=bNSQ0t4-c1A",
-                       "key": 7
+                       "key": 8
 		},
 	],
 	"version": [
