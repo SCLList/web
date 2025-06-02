@@ -57,7 +57,6 @@ const d = {
                        "key": 2
 		},
 		/*=================================================================================*/
-		/*=================================================================================*/
 		{
 			"vids": [
 				{
@@ -67,6 +66,25 @@ const d = {
 					"hz": "144hz"
 				},
 			],
+			"name": "The Spikes Of Pain (faz4kongiro)",
+                       "author": "faz4kongiro",
+                       "more": "none",
+                       "id": 120042527,
+                       "pass": "N/A",
+                       "percentToQualify": 79,
+                       "verificationVid": "https://youtu.be/DAHYy9QoOOk",
+                       "key": 3
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "faz4kongiro",
+					"link": "https://www.youtube.com/watch?v=R5DLgW6CTWo",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
 			"name": "Wave Challenge (grassy22)",
                        "author": "GrassyXD",
                        "more": "none",
@@ -74,7 +92,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 58,
                        "verificationVid": "https://youtu.be/VfvVwEKv7oQ",
-                       "key": 3
+                       "key": 4
 		},
 		/*=================================================================================*/
 		{
@@ -105,7 +123,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 68,
                        "verificationVid": "https://www.youtube.com/watch?v=4X3eHCPlGFI",
-                       "key": 4
+                       "key": 5
 		},
 		/*=================================================================================*/
 		{
@@ -136,7 +154,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 71,
                        "verificationVid": "https://youtu.be/0EtCv8Aq59A",
-                       "key": 5
+                       "key": 6
 		},
 		/*=================================================================================*/
 		{
@@ -161,7 +179,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 71,
                        "verificationVid": "https://www.youtube.com/watch?v=bNSQ0t4-c1A",
-                       "key": 6
+                       "key": 7
 		},
 	],
 	"version": [
