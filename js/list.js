@@ -9,6 +9,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "faz4kongiro",
+					"link": "https://youtu.be/3-zsI9zlEO8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Reto Para Will (MexelanGD)",
                        "author": "Willmuer",
@@ -79,26 +85,8 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "GrassyXD",
-					"link": "https://www.youtube.com/watch?v=_2SzVuauMkQ",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Leo Challen (Grassy2222)",
-                       "author": "faz4kongiro",
-                       "more": "none",
-                       "id": 119616687,
-                       "pass": "N/A",
-                       "percentToQualify": 55,
-                       "verificationVid": "https://www.youtube.com/watch?v=s74SWZSn8gU",
-                       "key": 4
-		},
-		{
-			"vids": [
-				{
-					"user": "MexelanGD",
-					"link": "https://www.youtube.com/watch?v=CUr-CAenzzQ",
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/_715tUA4wEY",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -110,7 +98,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 79,
                        "verificationVid": "https://youtu.be/_715tUA4wEY",
-                       "key": 5
+                       "key": 4
 		},
 		/*=================================================================================*/
 		{
@@ -129,7 +117,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 79,
                        "verificationVid": "https://youtu.be/DAHYy9QoOOk",
-                       "key": 6
+                       "key": 5
 		},
 		/*=================================================================================*/
 		{
@@ -148,7 +136,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 58,
                        "verificationVid": "https://youtu.be/VfvVwEKv7oQ",
-                       "key": 7
+                       "key": 6
 		},
 		/*=================================================================================*/
 		{
@@ -179,7 +167,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 68,
                        "verificationVid": "https://www.youtube.com/watch?v=4X3eHCPlGFI",
-                       "key": 8
+                       "key": 7
 		},
 		/*=================================================================================*/
 		{
@@ -210,46 +198,16 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 71,
                        "verificationVid": "https://youtu.be/0EtCv8Aq59A",
-                       "key": 9
+                       "key": 8
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 				{
-					"user": "LudkiGD",
-					"link": "https://www.youtube.com/watch?v=3YLRGl5HIUg",
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/mwSfhAkfoRo",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "faz4kongiro",
-					"link": "https://youtu.be/3HUEQcbwPVc",
-					"percent": 100,
-					"hz": "60hz"
-				},
-			],
-			"name": "Cbas Challen (grassy22)",
-                       "author": "GrassyXD",
-                       "more": "none",
-                       "id": 119953755,
-                       "pass": "N/A",
-                       "percentToQualify": 71,
-                       "verificationVid": "https://www.youtube.com/watch?v=bNSQ0t4-c1A",
-                       "key": 10
-		},
-		{
-			"vids": [
-				{
-					"user": "LudkiGD",
-					"link": "https://www.youtube.com/watch?v=3YLRGl5HIUg",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "faz4kongiro",
-					"link": "https://youtu.be/3HUEQcbwPVc",
-					"percent": 100,
-					"hz": "60hz"
 				},
 			],
 			"name": "Giga Clubstep (grassy22)",
@@ -259,7 +217,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 100,
                        "verificationVid": "https://youtu.be/mwSfhAkfoRo",
-                       "key": 11
+                       "key": 10
 		},
 	],
 	"version": [
