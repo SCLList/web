@@ -298,6 +298,24 @@ const d = {
                        "verificationVid": "https://youtu.be/mwSfhAkfoRo",
                        "key": 10
 		},
+		{
+			"vids": [
+				{
+					"user": "PLACEHOLDER",
+					"link": "",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "PLACEHOLDER (PLACEHOLDER)",
+                       "author": "PLACEHOLDER",
+                       "more": "none",
+                       "id": 120014625,
+                       "pass": "N/A",
+                       "percentToQualify": 100,
+                       "verificationVid": "",
+                       "key": 11
+		},
 	],
 	"version": [
 		1,
