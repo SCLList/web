@@ -5,7 +5,7 @@ const d = {
 			"vids": [
 				{
 					"user": "PLACEHOLDER",
-					"link": "https://www.youtube.com/watch?v=VwqCp0c9oYU",
+					"link": "https://youtu.be/I9xI-eR1LnA",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -16,7 +16,7 @@ const d = {
                        "id": 102126454,
                        "pass": "N/A",
                        "percentToQualify": 60,
-                       "verificationVid": "https://www.youtube.com/shorts/BQuVKgprZFQ",
+                       "verificationVid": "https://youtu.be/I9xI-eR1LnA",
                        "key": 0
 		},
 		/*=================================================================================*/
