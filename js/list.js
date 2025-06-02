@@ -204,6 +204,31 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "LudkiGD",
+					"link": "https://www.youtube.com/watch?v=3YLRGl5HIUg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "faz4kongiro",
+					"link": "https://youtu.be/3HUEQcbwPVc",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
+			"name": "Cbas Challen (grassy22)",
+                       "author": "GrassyXD",
+                       "more": "none",
+                       "id": 119953755,
+                       "pass": "N/A",
+                       "percentToQualify": 71,
+                       "verificationVid": "https://www.youtube.com/watch?v=bNSQ0t4-c1A",
+                       "key": 9
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "PLACEHOLDER",
 					"link": "https://youtu.be/mwSfhAkfoRo",
 					"percent": 100,
