@@ -4,8 +4,8 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "PLACEHOLDER",
-					"link": "https://youtu.be/I9xI-eR1LnA",
+					"user": "GrassyXD",
+					"link": "https://youtu.be/LGjdcBqHSfc",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -15,7 +15,7 @@ const d = {
                        "more": "none",
                        "id": 102126454,
                        "pass": "N/A",
-                       "percentToQualify": 60,
+                       "percentToQualify": 58,
                        "verificationVid": "https://youtu.be/I9xI-eR1LnA",
                        "key": 0
 		},
