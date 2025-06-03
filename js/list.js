@@ -66,6 +66,25 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/VfvVwEKv7oQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "The Spikes Of Pain 3 (GrassyXD)",
+                       "author": "GrassyXD",
+                       "more": "none",
+                       "id": 120234849,
+                       "pass": "N/A",
+                       "percentToQualify": 60,
+                       "verificationVid": "https://youtu.be/uSGrkUYu4sA",
+                       "key": 2
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "GrassyXD",
 					"link": "https://www.youtube.com/watch?v=_2SzVuauMkQ",
 					"percent": 100,
@@ -91,7 +110,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 55,
                        "verificationVid": "https://www.youtube.com/watch?v=s74SWZSn8gU",
-                       "key": 2
+                       "key": 3
 		},
 		{
 			"vids": [
@@ -115,7 +134,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 55,
                        "verificationVid": "https://youtu.be/KCpun8E4fGw",
-                       "key": 3
+                       "key": 4
 		},
 		/*=================================================================================*/
 		{
@@ -140,7 +159,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 70,
                        "verificationVid": "https://www.youtube.com/watch?v=TvFyMZZG49w&t=33s",
-                       "key": 4
+                       "key": 5
 		},
 		/*=================================================================================*/
 		{
@@ -159,7 +178,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 79,
                        "verificationVid": "https://youtu.be/_715tUA4wEY",
-                       "key": 5
+                       "key": 6
 		},
 		/*=================================================================================*/
 		{
@@ -184,7 +203,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 79,
                        "verificationVid": "https://youtu.be/DAHYy9QoOOk",
-                       "key": 6
+                       "key": 7
 		},
 		/*=================================================================================*/
 		{
@@ -209,7 +228,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 58,
                        "verificationVid": "https://youtu.be/VfvVwEKv7oQ",
-                       "key": 7
+                       "key": 8
 		},
 		/*=================================================================================*/
 		{
@@ -246,7 +265,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 68,
                        "verificationVid": "https://www.youtube.com/watch?v=4X3eHCPlGFI",
-                       "key": 8
+                       "key": 9
 		},
 		/*=================================================================================*/
 		{
@@ -283,7 +302,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 71,
                        "verificationVid": "https://youtu.be/0EtCv8Aq59A",
-                       "key": 9
+                       "key": 10
 		},
 		/*=================================================================================*/
 		{
@@ -314,7 +333,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 71,
                        "verificationVid": "https://www.youtube.com/watch?v=bNSQ0t4-c1A",
-                       "key": 10
+                       "key": 11
 		},
 		/*=================================================================================*/
 		{
@@ -345,7 +364,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 100,
                        "verificationVid": "https://youtu.be/mwSfhAkfoRo",
-                       "key": 11
+                       "key": 12
 		},
 		{
 			"vids": [
@@ -363,7 +382,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 100,
                        "verificationVid": "",
-                       "key": 12
+                       "key": 13
 		},
 	],
 	"version": [
