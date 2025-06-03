@@ -118,7 +118,7 @@ const d = {
 					"user": "GrassyXD",
 					"link": "https://www.youtube.com/watch?v=KCpun8E4fGw",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "144hz"
 				},
 				{
 					"user": "PLACEHOLDER",
