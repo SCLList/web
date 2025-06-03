@@ -21,6 +21,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LudkiGD",
+					"link": "https://youtu.be/WHZ4tcU2jKE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Reto Para Will (MexelanGD)",
                        "author": "Willmuer",
