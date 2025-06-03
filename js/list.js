@@ -71,6 +71,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LudkiGD",
+					"link": "https://youtu.be/nAI7GxoGAAI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Leo Challen (Grassy2222)",
                        "author": "faz4kongiro",
