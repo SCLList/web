@@ -109,6 +109,31 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "GrassyXD",
+					"link": "https://youtu.be/oPO9DE1NZEs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "PLACEHOLDER",
+					"link": "https://youtu.be/_715tUA4wEY",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
+			"name": "Zoquete challen 2 (ZoqueteRandom)",
+                       "author": "ZoqueteRandom",
+                       "more": "none",
+                       "id": 120174917,
+                       "pass": "N/A",
+                       "percentToQualify": 70,
+                       "verificationVid": "https://www.youtube.com/watch?v=TvFyMZZG49w&t=33s",
+                       "key": 4
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "PLACEHOLDER",
 					"link": "https://youtu.be/_715tUA4wEY",
 					"percent": 100,
@@ -122,7 +147,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 79,
                        "verificationVid": "https://youtu.be/_715tUA4wEY",
-                       "key": 4
+                       "key": 5
 		},
 		/*=================================================================================*/
 		{
@@ -147,7 +172,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 79,
                        "verificationVid": "https://youtu.be/DAHYy9QoOOk",
-                       "key": 5
+                       "key": 6
 		},
 		/*=================================================================================*/
 		{
@@ -172,7 +197,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 58,
                        "verificationVid": "https://youtu.be/VfvVwEKv7oQ",
-                       "key": 6
+                       "key": 7
 		},
 		/*=================================================================================*/
 		{
@@ -209,7 +234,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 68,
                        "verificationVid": "https://www.youtube.com/watch?v=4X3eHCPlGFI",
-                       "key": 7
+                       "key": 8
 		},
 		/*=================================================================================*/
 		{
@@ -246,7 +271,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 71,
                        "verificationVid": "https://youtu.be/0EtCv8Aq59A",
-                       "key": 8
+                       "key": 9
 		},
 		/*=================================================================================*/
 		{
@@ -277,7 +302,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 71,
                        "verificationVid": "https://www.youtube.com/watch?v=bNSQ0t4-c1A",
-                       "key": 9
+                       "key": 10
 		},
 		/*=================================================================================*/
 		{
@@ -302,7 +327,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 100,
                        "verificationVid": "https://youtu.be/mwSfhAkfoRo",
-                       "key": 10
+                       "key": 11
 		},
 		{
 			"vids": [
@@ -320,7 +345,7 @@ const d = {
                        "pass": "N/A",
                        "percentToQualify": 100,
                        "verificationVid": "",
-                       "key": 11
+                       "key": 12
 		},
 	],
 	"version": [
