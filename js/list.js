@@ -115,8 +115,8 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "MexelanGD",
-					"link": "https://www.youtube.com/watch?v=CUr-CAenzzQ",
+					"user": "GrassyXD",
+					"link": "https://www.youtube.com/watch?v=KCpun8E4fGw",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -128,12 +128,12 @@ const d = {
 				},
 			],
 			"name": "Why (MexelanGD)",
-                       "author": "GrassyXD",
+                       "author": "MexelanGD",
                        "more": "none",
                        "id": 119616687,
                        "pass": "N/A",
                        "percentToQualify": 55,
-                       "verificationVid": "https://youtu.be/KCpun8E4fGw",
+                       "verificationVid": "https://www.youtube.com/watch?v=CUr-CAenzzQ",
                        "key": 4
 		},
 		/*=================================================================================*/
