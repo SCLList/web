@@ -325,6 +325,12 @@ const d = {
 					"percent": 100,
 					"hz": "mobile 60hz"
 				},
+				{
+					"user": "LudkiGD",
+					"link": "https://youtu.be/Y6BJTM5qD4M",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Giga Clubstep (grassy22)",
                        "author": "GrassyXD",
