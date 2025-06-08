@@ -17,7 +17,7 @@ const d = {
                        "id": 119680187,
                        "pass": "N/A",
                        "percentToQualify": 55,
-                       "verificationVid": "https://www.tiktok.com/@urry_gd/video/7509636807345048840?is_from_webapp=1&sender_device=pc&web_id=7503052230444009015",
+                       "verificationVid": "https://youtu.be/wvDfXlzON5o",
                        "key": 0
 		},
 		/*=================================================================================*/
