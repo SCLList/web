@@ -1,0 +1,18 @@
+{
+    "id": 118517306,
+    "name": "Grassy challen",
+    "author": "Grassy22",
+    "creators": ["Grassy22", "LudkiGD"],
+    "verifier": "GrassyXD",
+    "verification": "https://youtu.be/tw5wiX7GizA",
+    "percentToQualify": 60,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "faz4kongiro",
+            "link": "https://www.youtube.com/watch?v=VwqCp0c9oYU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
