@@ -1,0 +1,24 @@
+{
+    "id": 120039772,
+    "name": "Leo Challen",
+    "author": "Grassy22",
+    "creators": ["Grassy22"],
+    "verifier": "faz4kongiro",
+    "verification": "https://www.youtube.com/watch?v=s74SWZSn8gU",
+    "percentToQualify": 55,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "GrassyXD",
+            "link": "https://www.youtube.com/watch?v=_2SzVuauMkQ",
+            "percent": 100,
+            "hz": CBF
+        },
+        {
+            "user": "LudkiGD",
+            "link": "https://youtu.be/nAI7GxoGAAI",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
