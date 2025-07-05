@@ -119,7 +119,7 @@ export default {
         </main>
     `,
     data: () => ({
-        list: [SCLL],
+        list: [],
         editors: [],
         loading: true,
         selected: 0,
