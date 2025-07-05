@@ -1,4 +1,4 @@
-import { store } from "../main.js";
+isitimport { store } from "../main.js";
 import { embed } from "../util.js";
 import { score } from "../score.js";
 import { fetchEditors, fetchList } from "../content.js";
@@ -98,7 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Requisitos de lista</h3>
                     <p>
                         Completar el nivel sin ningun tipo de hack (ojo el CBF esta permitido)
                     </p>
