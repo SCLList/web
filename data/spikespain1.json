@@ -1,0 +1,18 @@
+{
+    "id": 120042527,
+    "name": "The Spikes Of Pain",
+    "author": "faz4kongiro",
+    "creators": ["faz4kongiro"],
+    "verifier": "faz4kongiro",
+    "verification": "https://youtu.be/DAHYy9QoOOk",
+    "percentToQualify": 79,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "GrassyXD",
+            "link": "https://youtu.be/eNF-99CC-aw",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
