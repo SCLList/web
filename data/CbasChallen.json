@@ -1,0 +1,24 @@
+{
+    "id": 119953755,
+    "name": "Cbas challen",
+    "author": "GrassyXD",
+    "creators": ["GrassyXD"],
+    "verifier": "GrassyXD",
+    "verification": "https://www.youtube.com/watch?v=bNSQ0t4-c1A",
+    "percentToQualify": 71,
+    "password": "N/A",
+    "records": [
+	{
+		"user": "LudkiGD",
+		"link": "https://www.youtube.com/watch?v=3YLRGl5HIUg",
+		"percent": 100,
+		"hz": "144hz"
+	},
+	{
+		"user": "faz4kongiro",
+		"link": "https://youtu.be/3HUEQcbwPVc",
+		"percent": 100,
+		"hz": "60hz"
+	}
+    ]
+}
