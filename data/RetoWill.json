@@ -1,0 +1,30 @@
+{
+    "id": 102126454,
+    "name": "Reto Para Will2",
+    "author": "MexelanGD",
+    "creators": ["MexelanGD"],
+    "verifier": "Willmuer",
+    "verification": "https://youtu.be/I9xI-eR1LnA",
+    "percentToQualify": 58,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "GrassyXD",
+            "link": "https://youtu.be/LGjdcBqHSfc",
+            "percent": 100,
+            "hz": CBF
+        },
+        {
+            "user": "faz4kongiro",
+            "link": "https://youtu.be/3-zsI9zlEO8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "LudkiGD",
+            "link": "https://youtu.be/WHZ4tcU2jKE",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
