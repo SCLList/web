@@ -1,0 +1,18 @@
+{
+    "id": 117828119,
+    "name": "Wave Challenge",
+    "author": "GrassyXD",
+    "creators": ["GrassyXD"],
+    "verifier": "GrassyXD",
+    "verification": "https://youtu.be/VfvVwEKv7oQ",
+    "percentToQualify": 58,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "faz4kongiro",
+            "link": "https://www.youtube.com/watch?v=R5DLgW6CTWo",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
