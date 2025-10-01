@@ -1,0 +1,24 @@
+{
+    "id": 120110028,
+    "name": "Giga Clubstep",
+    "author": "GrassyXD",
+    "creators": ["GrassyXD"],
+    "verifier": "GrassyXD",
+    "verification": "https://youtu.be/mwSfhAkfoRo",
+    "percentToQualify": 100,
+    "password": "N/A",
+    "records": [
+	{
+		"user": "ZoqueteRandom",
+		"link": "https://youtube.com/shorts/IXFdDQVlG9I?si=O43THDGuJdCJxKl6",
+		"percent": 100,
+		"hz": "60hz"
+	},
+	{
+		"user": "LudkiGD",
+		"link": "https://youtu.be/Y6BJTM5qD4M",
+		"percent": 100,
+		"hz": "144hz"
+	}
+    ]
+}
