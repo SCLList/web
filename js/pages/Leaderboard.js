@@ -73,7 +73,7 @@ export default {
                                 </td>
                             </tr>
                         </table>
-                        <h2 v-if="entry.progressed.length > 0">Progresso ({{entry.progressed.length}})</h2>
+                        <h2 v-if="entry.progressed.length > 0">Progreso ({{entry.progressed.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.progressed">
                                 <td class="rank">
