@@ -8,5 +8,11 @@
     "percentToQualify": "55",
     "password": "N/A",
     "records": [
+        {
+            "user": "GrassyXD",
+            "link": "https://youtu.be/fy5xTtaUlbQ",
+            "percent": 61,
+            "hz": 144
+        }
     ]
 }
