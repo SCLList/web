@@ -112,6 +112,9 @@ export default {
                         No esta permitido el uso de modificaciones del nivel
                     </p>
                     <p>
+                        El record debe tener clicks 
+                    </p>
+                    <p>
                         Cuando un nivel queda en legacy list, solo se aceptan records 24 horas despues de su descenso.
                     </p>
                 </div>
